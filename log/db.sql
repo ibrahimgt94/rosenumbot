@@ -1,0 +1,1 @@
+{"sql":"update `info` set `app` = :s9cb1, `country` = :s228a, `rentId` = :s051c, `number` = :s2d50 where  `userId` = :s4c57","parm":{":s4c57":5447525202,":s9cb1":"nls",":s228a":"nls",":s051c":0,":s2d50":0}}
